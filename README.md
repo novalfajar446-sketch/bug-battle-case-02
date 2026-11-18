@@ -1,4 +1,4 @@
-# Bug Battle Laravel — Studi Kasus 02 (Relasi Buku dan Kategori)
+# Studi Kasus 02 (Relasi Buku dan Kategori)
 
 Aplikasi web manajemen buku dan kategori berbasis **Laravel** dan **MySQL** untuk mata kuliah **Pemrograman Web Lanjut**. Studi kasus ini berfokus pada perbaikan relasi Eloquent *one-to-many* (`belongsTo` dan `hasMany`), *foreign key*, validasi *mass assignment*, serta tampilan Blade.
 
